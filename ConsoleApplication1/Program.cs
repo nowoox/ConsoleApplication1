@@ -36,6 +36,8 @@ namespace ConsoleApplication1
 
             Multiplicate();
 
+            Multiplicate();
+
             Console.WriteLine();
 
             Console.ReadLine();
